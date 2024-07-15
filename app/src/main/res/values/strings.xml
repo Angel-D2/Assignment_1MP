@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JournalApp</string>
+    <string-array name="category_array">
+        <item>Work</item>
+        <item>Personal</item>
+        <item>Travel</item>
+        <item>Fitness</item>
+        <item>Hobbies</item>
+    </string-array>
+</resources>
